@@ -43,7 +43,18 @@ can.drawString(256, 561, "ทุ่งกุลา")
 can.drawString(365, 561, "ท่าตูม")
 can.drawString(468, 561, "สุรินทร์")
 
+# class
+can.drawString(157, 539.5, "ป.5")
 
+# school
+can.drawString(248, 539.5, "วัดคลองชากพง")
+
+# sport type
+can.drawString(242, 497.5, "วอลเลย์บอลชายหรือหญิง")
+
+# age ver
+
+can.drawString(417, 497.5, "12")
 
 can.save()
 
